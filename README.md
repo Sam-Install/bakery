@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍞 Sweet Oven Bakery Website
 
-## Getting Started
+A modern and responsive **bakery website** built with **Next.js and Tailwind CSS** to showcase freshly baked cakes, pastries, and custom bakery orders. The website allows customers to explore the menu, learn about the bakery, and place orders easily through **WhatsApp or phone**.
 
-First, run the development server:
+---
+
+## 🌐 Live Website
+https://bakery-gamma-liart.vercel.app
+
+---
+
+## ✨ Features
+
+- 🍰 Beautiful hero sections introducing the bakery
+- 🧁 Featured cakes and pastries menu
+- 📞 Contact page with Google Map (Diani South Coast)
+- 💬 WhatsApp ordering integration
+- 📱 Fully responsive design for mobile and desktop
+- 🎨 Modern UI built with Tailwind CSS
+- ⭐ Customer testimonials section
+- 👨‍🍳 Word from the owner section
+- 📍 Bakery contact details and location
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js**
+- **React**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Icons**
+- **Vercel (Deployment)**
+
+---
+
+## 📂 Website Pages
+
+| Page | Description |
+|-----|-------------|
+| Home | Landing page showcasing bakery highlights |
+| About | Information about the bakery and owner |
+| Cakes | Menu page displaying cakes and pastries |
+| Contact | Contact details and Google Map location |
+
+---
+
+## 📱 Ordering
+
+Customers can place orders directly through:
+
+- **WhatsApp**
+- **Phone Call**
+
+This allows quick and convenient communication for **custom cake requests, special orders, and bakery inquiries**.
+
+---
+
+## 🚀 Getting Started (Local Development)
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/bakery-website.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd bakery-website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open the application in your browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Purpose of the Project
 
-To learn more about Next.js, take a look at the following resources:
+This project was built to create a **modern online presence for a bakery**, allowing customers to:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Explore available cakes and pastries
+- Learn more about the bakery
+- Contact the bakery easily
+- Place custom orders quickly
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👨‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Developed by **Sami Dev**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
