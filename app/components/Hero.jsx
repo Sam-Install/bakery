@@ -17,7 +17,7 @@ const slides = [
     text: "Celebrate every moment with our handcrafted cakes made from the finest ingredients.",
   },
   {
-    image: "/bread3.jpg",
+    image: "/n2.png",
     title: "Taste The",
     subtitle: "Bakery Tradition",
     text: "From classic recipes to modern delights, we bake happiness into every bite.",
