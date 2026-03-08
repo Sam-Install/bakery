@@ -13,7 +13,7 @@ const Owner = () => {
         <div className="relative w-full lg:w-1/2 h-[520px] rounded-xl overflow-hidden shadow-lg">
 
           <Image
-            src="/ceo.jpeg"
+            src="/c2.jpeg"
             alt="Bakery Owner"
             fill
             className="object-cover"
